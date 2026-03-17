@@ -2,7 +2,7 @@
 
 ## Author
 
-* **Name**: ___MUSHAFINA R__
+* **Name**: __MUSHAFINA R__
 * **Register Number**: 212224220067
 * **Date of Submission**: 17-03-2026
 
