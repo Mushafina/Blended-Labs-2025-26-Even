@@ -64,14 +64,13 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 ---
 
-## Workflow (To be filled by Student)
 
-Describe step-by-step how you performed this experiment in your own words.
-
----
 
 ## Output Screenshots 
 
+<img width="1254" height="994" alt="image" src="https://github.com/user-attachments/assets/648ef121-569f-4742-ba92-38c2741f9d54" />
+<img width="1259" height="998" alt="image" src="https://github.com/user-attachments/assets/1a1df557-6d3b-49a9-9d0f-f9da5ca1d8ae" />
+<img width="1256" height="1078" alt="image" src="https://github.com/user-attachments/assets/a88e6622-3c19-4dac-bf71-b6db9becda08" />
 
 ---
 
